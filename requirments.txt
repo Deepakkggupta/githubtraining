@@ -7,3 +7,7 @@ This is chat application
 
 5. Dark Mode
 6. Video calls
+
+7. Payment Options
+- Send Money
+- Receive Money
